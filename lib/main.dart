@@ -124,8 +124,6 @@ class _MyHomePageState extends State<MyHomePage> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
                     SizedBox(
-                      // height: 40,
-                      // width: size.width / 3,
                       child: RaisedButton.icon(
                         color: Colors.red,
                         icon: Icon(
@@ -147,8 +145,6 @@ class _MyHomePageState extends State<MyHomePage> {
                       width: 8,
                     ),
                     SizedBox(
-                      // height: 40,
-                      // width: size.width / 3,
                       child: RaisedButton.icon(
                         color: Color(0xD10002DF),
                         icon: Icon(
